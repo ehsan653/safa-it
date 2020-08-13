@@ -1,9 +1,13 @@
 h1 {
     color: blue;
+    background-color: rgba(200, 178, 120);
 }
 p{
     background-color: cadetblue;
+    font-size: 28px;
+    color: #ffffff;
 }
 b{
-    color: crimson;
+    color: #abc;
+    background-color: hsla(200, 60%, 100%, 0.5); /*love this*/
 }
